@@ -1,3 +1,3 @@
 # go-learn
 
-A repo to store some Go learning code.
+A repo to store some Go code examples.
